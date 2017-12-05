@@ -4,6 +4,6 @@
 
 
 | 題號 | 題目 | 分類 | 難易度 |
-|-----------|------------|----------------|
+|-----|------|-----|-------|
 |7.|[Reverse Integer](/Math/7-Reverse-Integer.md)|Math| Easy|
 |9.|[Palindrome Number](/Math/9-Palindrome-Number.md)|Math| Easy|
