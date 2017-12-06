@@ -9,4 +9,5 @@
   * [9-Palindrome-Number](Math/9-Palindrome-Number.md)
 * [陣列\(Array\)](Array/README.md)
   * [1-Two-Sum](Array/1-Two-Sum.md)
+  * [26-Remove-Duplicates-from-Sorted-Array](Array/26-Remove-Duplicates-from-Sorted-Array.md)
 
