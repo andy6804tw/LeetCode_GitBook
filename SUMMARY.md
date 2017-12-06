@@ -10,4 +10,5 @@
 * [陣列\(Array\)](Array/README.md)
   * [1-Two-Sum](Array/1-Two-Sum.md)
   * [26-Remove-Duplicates-from-Sorted-Array](Array/26-Remove-Duplicates-from-Sorted-Array.md)
+  * [27-Remove-Element](Array/27-Remove-Element.md)
 

@@ -9,7 +9,7 @@ Do not allocate extra space for another array, you must do this by modifying the
 **Example:**
 
 ```
-Given nums = [1,1,2],
+Given nums = [1,1,2]
 
 Your function should return length = 2, with the first two elements of nums being 1 and 2 respectively.
 It doesn't matter what you leave beyond the new length.
@@ -19,7 +19,17 @@ It doesn't matter what you leave beyond the new length.
 
 給予一個排序過的陣列，原地移除重複的數值，並計算回傳不重複數值的陣列長度。
 
-不要配置而外記憶體空間給其他陣列，你只能原地修改輸入的陣列，空間複雜度 O(1)。
+不要配置而外記憶體空間給其他陣列，必需在本來的陣列中操作，空間複雜度 O(1)。
+
+
+**範例:**
+
+```
+輸入nums = [1,1,2]
+
+你的函式必須回傳長度等於 2，代表前兩個數字[1,2]。
+新的長度對原本的陣列不會有所影響。
+```  
 
 
 ## 解法
