@@ -13,4 +13,5 @@
 |27.|[Remove Element](https://leetcode.com/problems/remove-element/description/)|Array|Easy|[Link](/Array/27-Remove-Element.md)|
 |28.|[Implement strStr()](https://leetcode.com/problems/implement-strstr/description/)|String|Easy|[Link](String/28-Implement-strStr.md)|
 |35.|[Search Insert Position](https://leetcode.com/problems/search-insert-position/)|Array|Easy|[Link](Array/35-Search-Insert-Position.md)|
+|53.|[Maximum Subarray](https://leetcode.com/problems/maximum-subarray/description/)|Array|Easy|[Link](/Array/53-Maximum-Subarray.md)|
 |344.|[Reverse String](https://leetcode.com/problems/reverse-string/description/)|String |Easy|[Link](/String/344-Reverse-String.md)| 
