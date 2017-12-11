@@ -15,4 +15,5 @@
 |35.|[Search Insert Position](https://leetcode.com/problems/search-insert-position/)|Array|Easy|[Link](Array/35-Search-Insert-Position.md)|
 |53.|[Maximum Subarray](https://leetcode.com/problems/maximum-subarray/description/)|Array|Easy|[Link](/Array/53-Maximum-Subarray.md)|
 |58.|[Length of Last Word](https://leetcode.com/problems/length-of-last-word/description/)|String|Easy|[Link](/String/58-Length-of-Last-Word.md)|
+|69.|[Sqrt(x)](https://leetcode.com/problems/sqrtx/description/)|Math|Easy|[Link](/Math/69-Sqrt-x.md)|
 |344.|[Reverse String](https://leetcode.com/problems/reverse-string/description/)|String |Easy|[Link](/String/344-Reverse-String.md)| 

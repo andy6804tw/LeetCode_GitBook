@@ -7,3 +7,4 @@
 |-----|------|-----|-------|
 |7.|[Reverse Integer](/Math/7-Reverse-Integer.md)|Math| Easy|
 |9.|[Palindrome Number](/Math/9-Palindrome-Number.md)|Math| Easy|
+|69.|[Sqrt(x)](/Math/69-Sqrt-x.md)|Math| Easy|
