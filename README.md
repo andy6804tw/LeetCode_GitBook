@@ -19,3 +19,4 @@
 |242.|[Valid Anagram](https://leetcode.com/problems/valid-anagram/description/)|String|Easy|[Link](/String/242-Valid-Anagram.md)|
 |292.|[Nim Game](https://leetcode.com/problems/nim-game/description/)|Math|Easy|[Link](/Math/292-Nim-Game.md)|
 |344.|[Reverse String](https://leetcode.com/problems/reverse-string/description/)|String |Easy|[Link](/String/344-Reverse-String.md)| 
+|345.|[Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string/description/)|String |Easy|[Link](/String/345-Reverse-Vowels-of-a-String.md)| 

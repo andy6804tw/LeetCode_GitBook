@@ -7,6 +7,7 @@
   * [28-Implement-strStr](String/28-Implement-strStr.md)
   * [58-Length-of-Last-Word](String/58-Length-of-Last-Word.md)
   * [242-Valid-Anagram](String/242-Valid-Anagram.md)
+  * [345-Reverse-Vowels-of-a-String](String/345-Reverse-Vowels-of-a-String.md)
 * [數學\(Math\)](Math/README.md)
   * [7-Reverse-Integer](Math/7-Reverse-Integer.md)
   * [9-Palindrome-Number](Math/9-Palindrome-Number.md)

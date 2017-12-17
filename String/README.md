@@ -10,4 +10,4 @@
 |58.|[Length of Last Word](/String/58-Length-of-Last-Word.md)|String|Easy|
 |242.|[Valid Anagram](/String/242-Valid-Anagram.md)|String|Easy|
 |344.|[Reverse String](/String/344-Reverse-String.md)|String|Easy|
-
+|345.|[Reverse Vowels of a String](/String/345-Reverse-Vowels-of-a-String.md)|String|Easy|
