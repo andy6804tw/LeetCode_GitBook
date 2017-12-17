@@ -11,6 +11,7 @@
   * [7-Reverse-Integer](Math/7-Reverse-Integer.md)
   * [9-Palindrome-Number](Math/9-Palindrome-Number.md)
   * [69-Sqrt-x](Math/69-Sqrt-x.md)
+  * [292-Nim-Game](Math/292-Nim-Game.md)
 * [陣列\(Array\)](Array/README.md)
   * [1-Two-Sum](Array/1-Two-Sum.md)
   * [26-Remove-Duplicates-from-Sorted-Array](Array/26-Remove-Duplicates-from-Sorted-Array.md)

@@ -17,4 +17,5 @@
 |58.|[Length of Last Word](https://leetcode.com/problems/length-of-last-word/description/)|String|Easy|[Link](/String/58-Length-of-Last-Word.md)|
 |69.|[Sqrt(x)](https://leetcode.com/problems/sqrtx/description/)|Math|Easy|[Link](/Math/69-Sqrt-x.md)|
 |242.|[Valid Anagram](https://leetcode.com/problems/valid-anagram/description/)|String|Easy|[Link](/String/242-Valid-Anagram.md)|
+|292.|[Nim Game](https://leetcode.com/problems/nim-game/description/)|Math|Easy|[Link](/Math/292-Nim-Game.md)|
 |344.|[Reverse String](https://leetcode.com/problems/reverse-string/description/)|String |Easy|[Link](/String/344-Reverse-String.md)| 
