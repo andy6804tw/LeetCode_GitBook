@@ -11,3 +11,4 @@
 |35.|[Search Insert Position ](/Array/35-Search-Insert-Position.md)|Array|Easy|
 |53.|[Maximum Subarray](/Array/53-Maximum-Subarray.md)|Array|Easy|
 |205.|[Isomorphic Strings](/Array/205-Isomorphic-Strings.md)|Array|Easy|
+|283.|[Move Zeroes](/Array/283-Move-Zeroes.md)|Array|Easy|
