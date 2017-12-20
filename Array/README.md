@@ -10,3 +10,4 @@
 |27.|[Remove Element](/Array/27-Remove-Element.md)|Array|Easy|
 |35.|[Search Insert Position ](/Array/35-Search-Insert-Position.md)|Array|Easy|
 |53.|[Maximum Subarray](/Array/53-Maximum-Subarray.md)|Array|Easy|
+|205.|[Isomorphic Strings](/Array/205-Isomorphic-Strings.md)|Array|Easy|
