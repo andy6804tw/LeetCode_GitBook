@@ -20,4 +20,5 @@
   * [35-Search-Insert-Position](Array/35-Search-Insert-Position.md)
   * [53-Maximum-Subarray](Array/53-Maximum-Subarray.md)
   * 205-Isomorphic-Strings
+  * [283-Move-Zeroes](Array/283-Move-Zeroes.md)
 
