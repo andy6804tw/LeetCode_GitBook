@@ -22,4 +22,5 @@
   * 205-Isomorphic-Strings
   * [283-Move-Zeroes](Array/283-Move-Zeroes.md)
   * [198-House-Robber](Array/198-House-Robber.md)
+  * [67-Add-Binar](Array/67-Add-Binary.md)
 
