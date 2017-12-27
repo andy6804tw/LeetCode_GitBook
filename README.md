@@ -13,6 +13,7 @@
 |27.|[Remove Element](https://leetcode.com/problems/remove-element/description/)|Array|Easy|[Link](/Array/27-Remove-Element.md)|
 |28.|[Implement strStr()](https://leetcode.com/problems/implement-strstr/description/)|String|Easy|[Link](String/28-Implement-strStr.md)|
 |35.|[Search Insert Position](https://leetcode.com/problems/search-insert-position/)|Array|Easy|[Link](Array/35-Search-Insert-Position.md)|
+|38.|[Count and Say](https://leetcode.com/problems/count-and-say/description/)|String|Easy|[Link](/String/38-Count-and-Say.md)|
 |53.|[Maximum Subarray](https://leetcode.com/problems/maximum-subarray/description/)|Array|Easy|[Link](/Array/53-Maximum-Subarray.md)|
 |58.|[Length of Last Word](https://leetcode.com/problems/length-of-last-word/description/)|String|Easy|[Link](/String/58-Length-of-Last-Word.md)|
 |67.|[Add Binary](https://leetcode.com/problems/add-binary/description/)|Array|Easy|[Link](/Array/67-Add-Binary.md)|
