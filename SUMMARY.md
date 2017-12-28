@@ -9,6 +9,7 @@
   * [242-Valid-Anagram](String/242-Valid-Anagram.md)
   * [345-Reverse-Vowels-of-a-String](String/345-Reverse-Vowels-of-a-String.md)
   * [38-Count-and-Say](String/38-Count-and-Say.md)
+  * [125-Valid-Palindrome](String/125-valid-palindrome.md)
 * [數學\(Math\)](Math/README.md)
   * [7-Reverse-Integer](Math/7-Reverse-Integer.md)
   * [9-Palindrome-Number](Math/9-Palindrome-Number.md)
