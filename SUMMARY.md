@@ -25,4 +25,6 @@
   * [283-Move-Zeroes](Array/283-Move-Zeroes.md)
   * [198-House-Robber](Array/198-House-Robber.md)
   * [67-Add-Binar](Array/67-Add-Binary.md)
+* [動態規劃\(Dynamic\)](dong-tai-gui-528328-dynamic.md)
+  * [70-Climbing-Stairs](Dynamic/70-Climbing-Stairs.md)
 
