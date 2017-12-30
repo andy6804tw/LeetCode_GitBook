@@ -27,6 +27,6 @@
   * [67-Add-Binar](Array/67-Add-Binary.md)
 * [動態規劃\(Dynamic\)](dong-tai-gui-528328-dynamic.md)
   * [70-Climbing-Stairs](Dynamic/70-Climbing-Stairs.md)
-* 鏈結串列\(LinkedList\)
+* [鏈結串列\(LinkedList\)](lian-jie-chuan-521728-linkedlist.md)
   * [83-Remove-Duplicates-from-Sorted-List](LinkedList/83-Remove-Duplicates-from-Sorted-List.md)
 
