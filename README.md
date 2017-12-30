@@ -19,6 +19,7 @@
 |67.|[Add Binary](https://leetcode.com/problems/add-binary/description/)|Array|Easy|[Link](/Array/67-Add-Binary.md)|
 |69.|[Sqrt(x)](https://leetcode.com/problems/sqrtx/description/)|Math|Easy|[Link](/Math/69-Sqrt-x.md)|
 |70.|[Climbing Stairs](https://leetcode.com/problems/climbing-stairs/description/)|Dynamic|Easy|[Link](/Dynamic/70-Climbing-Stairs.md)|
+|83.|[Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/description/)|LinkedList|Easy|[Link](/LinkedList/83-Remove-Duplicates-from-Sorted-List.md)|
 |125.|[Valid Palindrome](https://leetcode.com/problems/valid-palindrome/description/)|Strung|Easy|[Link](/String/125-valid-palindrome.md)|
 |198.|[House Robber](https://leetcode.com/problems/house-robber/description/)|Array|Easy|[Link](/Array/198-House-Robber.md)|
 |205.|[Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/description/)|Array|Easy|[Link](/Array/205-Isomorphic-Strings.md)|
