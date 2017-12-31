@@ -25,8 +25,9 @@
   * [283-Move-Zeroes](Array/283-Move-Zeroes.md)
   * [198-House-Robber](Array/198-House-Robber.md)
   * [67-Add-Binar](Array/67-Add-Binary.md)
-* [動態規劃\(Dynamic\)](dong-tai-gui-528328-dynamic.md)
+  * [88-Merge-Sorted-Array](Array/88-merge-sorted-array.md)
+* [動態規劃\(Dynamic\)](Dynamic/README.md)
   * [70-Climbing-Stairs](Dynamic/70-Climbing-Stairs.md)
-* [鏈結串列\(LinkedList\)](lian-jie-chuan-521728-linkedlist.md)
+* [鏈結串列\(LinkedList\)](LinkedList/README.md)
   * [83-Remove-Duplicates-from-Sorted-List](LinkedList/83-Remove-Duplicates-from-Sorted-List.md)
 
