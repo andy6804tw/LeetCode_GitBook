@@ -22,6 +22,7 @@
 |83.|[Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/description/)|LinkedList|Easy|[Link](/LinkedList/83-Remove-Duplicates-from-Sorted-List.md)|
 |88.|[Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/description/)|Array|Easy|[Link](/Array/88-merge-sorted-array.md)|
 |125.|[Valid Palindrome](https://leetcode.com/problems/valid-palindrome/description/)|Strung|Easy|[Link](/String/125-valid-palindrome.md)|
+|171.|[Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number/description/)|Math|Easy|[Link](/Math/171-Excel-Sheet-Column-Number.md)|
 |198.|[House Robber](https://leetcode.com/problems/house-robber/description/)|Array|Easy|[Link](/Array/198-House-Robber.md)|
 |205.|[Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/description/)|Array|Easy|[Link](/Array/205-Isomorphic-Strings.md)|
 |242.|[Valid Anagram](https://leetcode.com/problems/valid-anagram/description/)|String|Easy|[Link](/String/242-Valid-Anagram.md)|
