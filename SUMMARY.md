@@ -28,6 +28,7 @@
   * [198-House-Robber](Array/198-House-Robber.md)
   * [67-Add-Binar](Array/67-Add-Binary.md)
   * [88-Merge-Sorted-Array](Array/88-merge-sorted-array.md)
+  * [169-Majority-Element](Array/169-Majority-Element.md)
 * [動態規劃\(Dynamic\)](Dynamic/README.md)
   * [70-Climbing-Stairs](Dynamic/70-Climbing-Stairs.md)
 * [鏈結串列\(LinkedList\)](LinkedList/README.md)
